@@ -1,2 +1,2 @@
 # Bookmark-Website
-![thumbnail](./public/img/bookmark.png)
+![thumbnail](./public/imgs/bookmark.png)
